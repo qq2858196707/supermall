@@ -4,23 +4,23 @@
       <!-- 外部 -->
       <tab-bar-item path="/home">
         <!-- 动态 -->
-        <img slot="item-icon" src="../../../assets/img/tabbar/homeico.png" alt="">
-        <img slot="item-icon-active" src="../../../assets/img/tabbar/clickhomeico.png" alt="">
+        <img slot="item-icon" src="~assets/img/tabbar/homeico.png" alt="">
+        <img slot="item-icon-active" src="~assets/img/tabbar/clickhomeico.png" alt="">
         <div slot="item-text">首页</div>
       </tab-bar-item>
       <tab-bar-item path="/category">
-        <img slot="item-icon" src="../../../assets/img/tabbar/classifyico.png" alt="">
-        <img slot="item-icon-active" src="../../../assets/img/tabbar/clickclassifyicon.png" alt="">
+        <img slot="item-icon" src="~assets/img/tabbar/classifyico.png" alt="">
+        <img slot="item-icon-active" src="~assets/img/tabbar/clickclassifyicon.png" alt="">
         <div slot="item-text">分类</div>
       </tab-bar-item>
       <tab-bar-item path="/cart">
-        <img slot="item-icon" src="../../../assets/img/tabbar/shoppingico.png" alt="">
-        <img slot="item-icon-active" src="../../../assets/img/tabbar/clickshoppingicon.png" alt="">
+        <img slot="item-icon" src="~assets/img/tabbar/shoppingico.png" alt="">
+        <img slot="item-icon-active" src="~assets/img/tabbar/clickshoppingicon.png" alt="">
         <div slot="item-text">购物车</div>
       </tab-bar-item>
       <tab-bar-item path="/profile">
-        <img slot="item-icon" src="../../../assets/img/tabbar/userico.png" alt="">
-        <img slot="item-icon-active" src="../../../assets/img/tabbar/clickusericon.png" alt="">
+        <img slot="item-icon" src="~assets/img/tabbar/userico.png" alt="">
+        <img slot="item-icon-active" src="~assets/img/tabbar/clickusericon.png" alt="">
         <div slot="item-text">我的</div>
       </tab-bar-item>
       <!-- 可以继续添加，自动布局 -->
