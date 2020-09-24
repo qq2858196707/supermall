@@ -32,8 +32,8 @@
 </template>
 
 <script>
-import TabBar from '@/components/common/tabbar/Tabbar'
-import TabBarItem from '@/components/common/tabbar/TabBarItem'
+import TabBar from 'components/common/tabbar/Tabbar'
+import TabBarItem from 'components/common/tabbar/TabBarItem'
 
 export default {
   name:'MainTabBar',

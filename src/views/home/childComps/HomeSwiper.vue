@@ -14,7 +14,7 @@
 // import Swiper from '@/components/common/swiper/Swiper'
 // import SwiperItem from '@/components/common/swiper/SwiperItem'
 // 因为index导出了对象，所以直接使用
-import { Swiper, SwiperItem } from "@/components/common/swiper";
+import { Swiper, SwiperItem } from "components/common/swiper";
 
 export default {
   name: "HomeSwiper",
